@@ -1,6 +1,8 @@
-# .dotfiles
+![header-](markdown-files/bitmap.png)
 
 ### **Working on!!!!!**
+
+* bashrc file added
 
 > My Own .dotfiles "**Linux Dot Files**"
 
