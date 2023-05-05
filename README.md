@@ -1,6 +1,6 @@
 ![header-](markdown-files/bitmap.png)
 
-[fork my repository](https://github.com/samu-ang/.dotfiles/fork)
+[Fork](https://github.com/samu-ang/.dotfiles/fork)
 
 ### **Working on!!!!!**
 
