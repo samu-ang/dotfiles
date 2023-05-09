@@ -13,5 +13,4 @@ alias si-custom='nerdfetch'
 alias nv='nvim'
 alias si-minimal='swef'
 alias si-retro='nitch'
-export PATH="/home/linuxbrew/.linuxbrew/bin:$PATH"
 PS1="\[\033[01;34m\]\W\[\033[00m\] "
